@@ -1,0 +1,47 @@
+h1 {
+	text-align: center;
+}
+
+.header {
+	background: green;
+	color: white;
+	padding: 10px;
+}
+
+table {
+    table-layout: fixed;
+    width: 90%;
+}
+
+td {
+	border: 1px solid #333;
+	padding: 10px;
+	margin: 5px;
+}
+pre {
+    word-wrap:break-word;
+	white-space: pre-wrap;
+}
+
+.cntr {
+	align: center;
+}
+
+.difference {
+    width: 1em;
+    background: #A9D0F5;
+}
+
+.btn {
+	margin: 10px;
+	padding: 5px, 12px;
+}
+
+.textBlock {
+	width: 45%;
+}
+
+#compare {
+	background: green;
+	color: white;
+}
